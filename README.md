@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Syed Mohammad Aquib
+# 👋 Hello, I'm SYED MOHAMMAD AQUIB
 
 ### 💻 Full Stack Developer | MERN Stack Specialist | Tech Enthusiast
 
