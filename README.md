@@ -16,6 +16,7 @@ Here are some of the technologies and tools I'm proficient in:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ### Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -38,10 +39,18 @@ Here are some of the technologies and tools I'm proficient in:
 
 ## 📂 Projects
 
-### [🌎 Green World Academy Website](https://github.com/yourusername/green-world-academy)
-An interactive website developed for a local academy, Green World Academy. The website is designed to manage notices and provide updated information for students and staff. I implemented school-specific authorization, ensuring that only authorized personnel can edit notices and manage sensitive content. This project involved constant collaboration with faculty members to gather detailed requirements and ensure the site met their needs.
+### [🌎 Green World Academy Website](https://github.com/yourusername/green-world-academy)  
+An interactive website developed for a local academy, Green World Academy. The website is designed to manage notices and provide updated information for students and staff. I implemented school-specific authorization, ensuring that only authorized personnel can edit notices and manage sensitive content. This project involved constant collaboration with faculty members to gather detailed requirements and ensure the site met their needs.  
 
-LINK === https://greenworldacademy.onrender.com/
+LINK === https://greenworldacademy.onrender.com/  
+
+---
+
+### [💰 ExpenseAI – Smart Expense Tracker](https://github.com/yourusername/expenseai)  
+A smart expense tracking web application that allows users to input their daily expenses, automatically categorizes them (food, travel, shopping, etc.), and provides **AI-driven insights** on spending habits. The project uses **Gemini API integration** for analysis and includes **interactive graphs** for better financial visualization.  
+
+LINK === https://expenseai-fmxo.onrender.com/  
+
 ---
 
 ## 📬 Connect with Me
@@ -54,11 +63,6 @@ I'm always open to discussing development, technology, and collaboration opportu
 ---
 
 Thank you for visiting my GitHub profile! I’m continuously working on new projects and exploring innovative ideas. Watch this space for updates!
-
-
-
-
-
 
 <details>	
  <summary><b>ACHIEVEMENT 🪶</b></summary><br>
