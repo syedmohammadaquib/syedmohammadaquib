@@ -39,14 +39,14 @@ Here are some of the technologies and tools I'm proficient in:
 
 ## 📂 Projects
 
-### [🌎 Green World Academy Website](https://github.com/yourusername/green-world-academy)  
+### [🌎 Green World Academy Website](https://greenworldacademy.in/)  
 An interactive website developed for a local academy, Green World Academy. The website is designed to manage notices and provide updated information for students and staff. I implemented school-specific authorization, ensuring that only authorized personnel can edit notices and manage sensitive content. This project involved constant collaboration with faculty members to gather detailed requirements and ensure the site met their needs.  
 
 LINK === https://greenworldacademy.in/  
 
 ---
 
-### [💰 ExpenseAI – Smart Expense Tracker](https://github.com/yourusername/expenseai)  
+### [💰 ExpenseAI – Smart Expense Tracker](https://expenseai-fmxo.onrender.com/)  
 A smart expense tracking web application that allows users to input their daily expenses, automatically categorizes them (food, travel, shopping, etc.), and provides **AI-driven insights** on spending habits. The project uses **Gemini API integration** for analysis and includes **interactive graphs** for better financial visualization.  
 
 LINK === https://expenseai-fmxo.onrender.com/  
@@ -55,8 +55,7 @@ LINK === https://expenseai-fmxo.onrender.com/
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohammadaquib)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/smaquib8055)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohammadaquib) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/smaquib8055)
 
 I'm always open to discussing development, technology, and collaboration opportunities. Let's connect and grow together!
 
