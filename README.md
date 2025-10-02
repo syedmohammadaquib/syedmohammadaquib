@@ -1,4 +1,4 @@
-# 👋 Hello, I'm SYED MOHAMMAD AQUIB
+# ✅ Hello, I'm SYED MOHAMMAD AQUIB
 
 ### 💻 Full Stack Developer | MERN Stack Specialist | Tech Enthusiast
 
@@ -42,7 +42,7 @@ Here are some of the technologies and tools I'm proficient in:
 ### [🌎 Green World Academy Website](https://github.com/yourusername/green-world-academy)  
 An interactive website developed for a local academy, Green World Academy. The website is designed to manage notices and provide updated information for students and staff. I implemented school-specific authorization, ensuring that only authorized personnel can edit notices and manage sensitive content. This project involved constant collaboration with faculty members to gather detailed requirements and ensure the site met their needs.  
 
-LINK === https://greenworldacademy.onrender.com/  
+LINK === https://greenworldacademy.in/  
 
 ---
 
@@ -55,8 +55,8 @@ LINK === https://expenseai-fmxo.onrender.com/
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohammadaquib)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smaquib8055)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohammadaquib)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/smaquib8055)
 
 I'm always open to discussing development, technology, and collaboration opportunities. Let's connect and grow together!
 
