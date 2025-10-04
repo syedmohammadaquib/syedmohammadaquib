@@ -1,67 +1,93 @@
-# ✅ Hello, I'm SYED MOHAMMAD AQUIB
+# 👋 Hello, I'm <span style="color: #FFFFFF; font-family: 'Fira Code', monospace; border-bottom: 3px solid #FFFFFF; display: inline-block; padding-bottom: 5px;">SYED MOHAMMAD AQUIB</span>
 
-### 💻 Full Stack Developer | MERN Stack Specialist | Tech Enthusiast
+### 💻 Full Stack Developer | MERN Stack Specialist | AI & Web Enthusiast | Open Source Contributor
 
-Welcome to my GitHub profile! I'm a BTech Computer Science and Engineering student at United Institute of Technology, passionate about creating impactful applications using modern web technologies. I'm also deeply involved in technical communities, actively contributing to the Developer's Club, E-cell Team, and GDG on my campus.
+Welcome to my GitHub profile!  
+I'm a **B.Tech Computer Science and Engineering student** at *United Institute of Technology*, passionate about building impactful applications with modern web technologies.  
+
+I actively contribute to **Developer's Club, E-Cell Team, and GDG** on campus, collaborating on projects and sharing knowledge within the tech community.  
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🛠️ Tech Stack & Skills  
 
-Here are some of the technologies and tools I'm proficient in:
-
-### Frontend:
+### 🚀 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend:
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-- **Node.js & Express.js**: Developing scalable backend applications and APIs with Node.js and Express.js, handling server-side logic, and routing.  
-- **Authentication**: Implementing JWT and session-based authentication for secure user logins.
+- **Node.js & Express.js** → REST APIs, server-side logic, scalable backend apps  
+- **Authentication** → JWT & session-based secure user login  
 
-### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-- **MongoDB**: Working with NoSQL databases for flexible data storage, optimized for handling large amounts of unstructured data.
+- **MongoDB** → Flexible NoSQL database management  
 
-### Version Control & Collaboration:
+### 🤝 Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- **Git & GitHub**: Version control with Git for efficient code management and collaboration on GitHub repositories.
+- **Git & GitHub** → Version control, branching, and team collaboration  
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects  
 
-### [🌎 Green World Academy Website](https://greenworldacademy.in/)  
-An interactive website developed for a local academy, Green World Academy. The website is designed to manage notices and provide updated information for students and staff. I implemented school-specific authorization, ensuring that only authorized personnel can edit notices and manage sensitive content. This project involved constant collaboration with faculty members to gather detailed requirements and ensure the site met their needs.  
+### 🌎 [Green World Academy Website](https://greenworldacademy.in/)  
+An interactive **school website** to manage notices and updates for students and staff.  
+- Implemented **role-based authorization** for secure content management  
+- Built with continuous feedback from faculty for real-world usability  
 
-LINK === https://greenworldacademy.in/  
-
----
-
-### [💰 ExpenseAI – Smart Expense Tracker](https://expenseai-fmxo.onrender.com/)  
-A smart expense tracking web application that allows users to input their daily expenses, automatically categorizes them (food, travel, shopping, etc.), and provides **AI-driven insights** on spending habits. The project uses **Gemini API integration** for analysis and includes **interactive graphs** for better financial visualization.  
-
-LINK === https://expenseai-fmxo.onrender.com/  
+🔗 **Live Demo** → [greenworldacademy.in](https://greenworldacademy.in/)  
 
 ---
 
-## 📬 Connect with Me
+### 💰 [ExpenseAI – Smart Expense Tracker](https://expenseai-fmxo.onrender.com/)  
+A smart expense tracker with **AI-powered insights**.  
+- Categorizes expenses (food, travel, shopping, etc.) automatically  
+- Integrated **Gemini API** for smart analysis  
+- Provides **interactive charts & graphs** for financial planning  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohammadaquib) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/smaquib8055)
-
-I'm always open to discussing development, technology, and collaboration opportunities. Let's connect and grow together!
+🔗 **Live Demo** → [expenseai-fmxo.onrender.com](https://expenseai-fmxo.onrender.com/)  
 
 ---
 
-## 🪶 ACHIEVEMENTS
+## 📬 Connect with Me  
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohammadaquib) 
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/smaquib8055)  
+
+💡 *Always open to discussions on tech, development, and collaborations.*  
+
+</div>  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=syedmohammadaquib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170px" />  
+<img src="https://streak-stats.demolab.com?user=syedmohammadaquib&theme=tokyonight&hide_border=true" height="170px" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmohammadaquib&layout=compact&theme=tokyonight&hide_border=true" height="170px" />  
+
+<img src="https://github-profile-trophy.vercel.app/?username=syedmohammadaquib&theme=tokyonight&no-frame=true&row=1&column=6" />  
+
+</div>  
+
+---
+
+## 🪶 Achievements  
 
 <div style='display:flex; align-items:center; gap: 10px; flex-wrap: wrap;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
