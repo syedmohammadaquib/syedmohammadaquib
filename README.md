@@ -1,11 +1,11 @@
-# 👋 Hello, I'm <span style="color: #FFFFFF; font-family: 'Fira Code', monospace; border-bottom: 3px solid #FFFFFF; display: inline-block; padding-bottom: 5px;">SYED MOHAMMAD AQUIB</span>
+# 👋 Hello, I'm SYED MOHAMMAD AQUIB
 
-### 💻 Full Stack Developer | MERN Stack Specialist | AI & Web Enthusiast | Open Source Contributor
+### Full Stack Developer | MERN Stack Specialist | AI & Web Enthusiast | Open Source Contributor
 
 Welcome to my GitHub profile!  
-I'm a **B.Tech Computer Science and Engineering student** at *United Institute of Technology*, passionate about building impactful applications with modern web technologies.  
+I'm a <strong>B.Tech Computer Science and Engineering student</strong> at <em>United Institute of Technology</em>, passionate about building impactful applications with modern web technologies.  
 
-I actively contribute to **Developer's Club, E-Cell Team, and GDG** on campus, collaborating on projects and sharing knowledge within the tech community.  
+I actively contribute to <strong>Developer's Club, E-Cell Team, and GDG</strong> on campus, collaborating on projects and sharing knowledge within the tech community.  
 
 ---
 
@@ -40,7 +40,7 @@ I actively contribute to **Developer's Club, E-Cell Team, and GDG** on campus, c
 
 ---
 
-## 🚀 Featured Projects 💡 
+## 💡 Featured Projects
 
 ### 🏫 [Green World Academy Website](https://greenworldacademy.in/)  
 An interactive **school website** to manage notices and updates for students and staff.  
@@ -76,7 +76,7 @@ A smart expense tracker with **AI-powered insights**.
 
 ---
 
-## ⭐ Achievements 🏅
+## 🏅 Achievements
 
 <div style='display:flex; align-items:center; gap: 10px; flex-wrap: wrap;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
