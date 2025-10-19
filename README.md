@@ -1,6 +1,6 @@
 # 👋 Hello, I'm <span style="color: #FFFFFF; font-family: 'Fira Code', monospace; border-bottom: 3px solid #FFFFFF; display: inline-block; padding-bottom: 5px;">SYED MOHAMMAD AQUIB</span>
 
-### 💻 Full Stack Developer | MERN Stack Specialist | AI & Web Enthusiast | Open Source Contributor
+### Full Stack Developer | MERN Stack Specialist | AI & Web Enthusiast | Open Source Contributor
 
 Welcome to my GitHub profile!  
 I'm a **B.Tech Computer Science and Engineering student** at *United Institute of Technology*, passionate about building impactful applications with modern web technologies.  
@@ -11,36 +11,38 @@ I actively contribute to **Developer's Club, E-Cell Team, and GDG** on campus, c
 
 ## 🛠️ Tech Stack & Skills  
 
-### 🚀 Frontend
+### 💻 Frontend
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
+<br>
+### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-- **Node.js & Express.js** → REST APIs, server-side logic, scalable backend apps  
-- **Authentication** → JWT & session-based secure user login  
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-- **MongoDB** → Flexible NoSQL database management  
-
-### 🤝 Collaboration
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-404D59?style=for-the-badge&logo=swagger&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34495E?style=for-the-badge&logo=passport&logoColor=white)
+<br>
+### 🗄️ Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-1B2433?style=for-the-badge&logo=hoppscotch&logoColor=white)
+![Generative AI Gemini](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+<br>
+### 📚 Languages & Concepts
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9C4?style=for-the-badge&logo=c&logoColor=white)
+<br>
+### 🤝 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- **Git & GitHub** → Version control, branching, and team collaboration  
-
 ---
 
-## 📂 Featured Projects  
+## 💡 Featured Projects 
 
-### 🌎 [Green World Academy Website](https://greenworldacademy.in/)  
+### 🏫 [Green World Academy Website](https://greenworldacademy.in/)  
 An interactive **school website** to manage notices and updates for students and staff.  
 - Implemented **role-based authorization** for secure content management  
 - Built with continuous feedback from faculty for real-world usability  
@@ -59,7 +61,7 @@ A smart expense tracker with **AI-powered insights**.
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -74,9 +76,13 @@ A smart expense tracker with **AI-powered insights**.
 
 ---
 
-## 🪶 Achievements  
+## 🏅 Achievements
 
 <div style='display:flex; align-items:center; gap: 10px; flex-wrap: wrap;' align='center'>
+  
+  <a href="https://leetcode.com/syedmohammadaquib">
+    <img src="https://img.shields.io/badge/LeetCode-50%20Days%20Badge-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode 50 Days Badge 2025" width="auto" height="100px" />
+  </a>
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -99,7 +105,7 @@ A smart expense tracker with **AI-powered insights**.
 
 ---
 
-## 📬 Connect with Me  
+## 📧 Connect with Me  
 
 <div align="center">
   
