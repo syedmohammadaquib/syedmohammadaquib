@@ -1,6 +1,6 @@
 # 👋 Hello, I'm <span style="color: #FFFFFF; font-family: 'Fira Code', monospace; border-bottom: 3px solid #FFFFFF; display: inline-block; padding-bottom: 5px;">SYED MOHAMMAD AQUIB</span>
 
-### Full Stack Developer | MERN Stack Specialist | AI & Web Enthusiast | Open Source Contributor
+### 💻 Full Stack Developer | MERN Stack Specialist | AI & Web Enthusiast | Open Source Contributor
 
 Welcome to my GitHub profile!  
 I'm a **B.Tech Computer Science and Engineering student** at *United Institute of Technology*, passionate about building impactful applications with modern web technologies.  
@@ -28,7 +28,7 @@ I actively contribute to **Developer's Club, E-Cell Team, and GDG** on campus, c
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-1B2433?style=for-the-badge&logo=hoppscotch&logoColor=white)
-![Generative AI Gemini](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-412991?style=for-the-badge&logo=google&logoColor=white)
 <br>
 ### 📚 Languages & Concepts
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -40,7 +40,7 @@ I actively contribute to **Developer's Club, E-Cell Team, and GDG** on campus, c
 
 ---
 
-## 💡 Featured Projects 
+## 🚀 Featured Projects 💡 
 
 ### 🏫 [Green World Academy Website](https://greenworldacademy.in/)  
 An interactive **school website** to manage notices and updates for students and staff.  
@@ -76,7 +76,7 @@ A smart expense tracker with **AI-powered insights**.
 
 ---
 
-## 🏅 Achievements
+## ⭐ Achievements 🏅
 
 <div style='display:flex; align-items:center; gap: 10px; flex-wrap: wrap;' align='center'>
   
