@@ -79,10 +79,6 @@ A smart expense tracker with **AI-powered insights**.
 ## ⭐ Achievements 🏅
 
 <div style='display:flex; align-items:center; gap: 10px; flex-wrap: wrap;' align='center'>
-  
-  <a href="https://leetcode.com/syedmohammadaquib">
-    <img src="https://img.shields.io/badge/LeetCode-50%20Days%20Badge-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode 50 Days Badge 2025" width="auto" height="100px" />
-  </a>
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
