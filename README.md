@@ -59,19 +59,6 @@ A smart expense tracker with **AI-powered insights**.
 
 ---
 
-## 📬 Connect with Me  
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohammadaquib) 
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/smaquib8055)  
-
-💡 *Always open to discussions on tech, development, and collaborations.*  
-
-</div>  
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -105,4 +92,21 @@ A smart expense tracker with **AI-powered insights**.
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
   </a>
+  <a href="https://holopin.io/@syedmohammadaquib">
+    <img src="https://holopin.me/syedmohammadaquib" alt="@syedmohammadaquib's Holopin badges" width="auto" height="100px">
+  </a>
 </div>
+
+---
+
+## 📬 Connect with Me  
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohammadaquib) 
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/smaquib8055)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/syedmohammadaquib)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaquib8055@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedmohammadaquib)
+
+💡 *Always open to discussions on tech, development, and collaborations.* </div>
