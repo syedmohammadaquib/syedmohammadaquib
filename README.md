@@ -95,7 +95,7 @@ A smart expense tracker with **AI-powered insights**.
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
   </a>
   <a href="https://holopin.io/@syedmohammadaquib">
-    <img src="https://holopin.me/syedmohammadaquib" alt="@syedmohammadaquib's Holopin badges" width="auto" height="100px">
+    <img src="https://holopin.me/syedmohammadaquib" alt="@syedmohammadaquib's Holopin badges" width="auto" height="105px">
   </a>
 </div>
 
