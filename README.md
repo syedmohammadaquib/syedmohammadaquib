@@ -101,6 +101,12 @@ A smart expense tracker with **AI-powered insights**.
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 📧 Connect with Me  
 
 <div align="center">
