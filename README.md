@@ -2,7 +2,7 @@
 
 <h1>𝙎𝙔𝙀𝘿 𝙈𝙊𝙃𝘼𝙈𝙈𝘼𝘿 𝘼𝙌𝙐𝙄𝘽</h1>
 
-<h3>𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 · 𝑴𝑬𝑹𝑵 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒔𝒕 · 𝑨𝑰 & 𝑾𝒆𝒃 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕</h3>
+<h3>𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 · 𝑴𝑬𝑹𝑵 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒔𝒕 · 𝑨𝑰 & 𝑾𝒆𝒃 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕</h3>
 
 <p>
 Building modern web applications, intelligent products, and practical solutions with code.
@@ -39,7 +39,7 @@ Building modern web applications, intelligent products, and practical solutions 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-5C6BC0?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-34A853?style=for-the-badge&logo=passport&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
@@ -118,7 +118,7 @@ An interactive **school management website** designed to help students, staff, a
 - Designed an intuitive experience for managing notices and updates
 - Focused on maintainability, usability, and practical deployment
 
-**Live Website** → https://greenworldacademy.in/
+**Live Website** → https://greenworldacademy.onrender.com/
 
 <h1>𝙎𝙏𝘼𝙏𝙎 & 𝙋𝙍𝙊𝙂𝙍𝙀𝙎𝙎</h1>
 
@@ -129,44 +129,17 @@ An interactive **school management website** designed to help students, staff, a
 </div>
 <h1>𝘼𝘾𝙃𝙄𝙀𝙑𝙀𝙈𝙀𝙉𝙏𝙎</h1>
 
-<div align="center">
-
-<a href="https://www.credly.com/badges/fa0a6146-9eab-4df6-a4b2-6c0f351566e0">
-  <img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" alt="Credly - Introduction to Modern AI" width="150" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://badges.parchment.com/public/assertions/jJd0AyMFRg60606ON0h9nw?identity__email=syedmohammadaquib12%40gmail.com">
-  <img src="https://api.badgr.io/public/assertions/jJd0AyMFRg60606ON0h9nw/image" alt="Parchment - Verified Digital Credential" width="150" />
-</a>
-
-</div>
----
-
+<p align="center"><a href="https://www.credly.com/badges/fa0a6146-9eab-4df6-a4b2-6c0f351566e0"><img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" alt="Credly - Introduction to Modern AI" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://badges.parchment.com/public/assertions/jJd0AyMFRg60606ON0h9nw?identity__email=syedmohammadaquib12%40gmail.com"><img src="https://api.badgr.io/public/assertions/jJd0AyMFRg60606ON0h9nw/image" alt="Parchment - Verified Digital Credential" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://holopin.io/@syedmohammadaquib"><img src="https://holopin.me/syedmohammadaquib" alt="An image of @syedmohammadaquib's Holopin badges, which is a link to view their full Holopin profile" height="85" /></a></p>
 <h1>𝘾𝙊𝙉𝙉𝙀𝘾𝙏</h1>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/syedmohammadaquib">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/smaquib8055">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/syedmohammadaquib">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="mailto:smaquib8055@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/syedmohammadaquib">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=24)](https://www.linkedin.com/in/syedmohammadaquib)&nbsp;&nbsp;&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=24)](https://x.com/smaquib8055)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=24)](https://leetcode.com/syedmohammadaquib)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=24)](mailto:smaquib8055@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-5E35B1?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTMgMTJoMThNMTIgM2MzIDIuNSAzIDE1LjUgMCAxOE0xMiAzYy0zIDIuNS0zIDE1LjUgMCAxOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiLz48L3N2Zz4=&logoWidth=24)](https://syedmohammadaquib.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=24)](https://github.com/syedmohammadaquib)
 
 <br><br>
 
