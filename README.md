@@ -10,7 +10,11 @@ Building modern web applications, intelligent products, and practical solutions 
 
 </div>
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:173EA5,50:2450C5,100:2F46C7&section=header" width="92%" alt="" />
+</p>
+
 
 <h1>𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆 & 𝙎𝙆𝙄𝙇𝙇𝙎</h1>
 
@@ -72,7 +76,11 @@ Building modern web applications, intelligent products, and practical solutions 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-1B2433?style=for-the-badge&logo=hoppscotch&logoColor=white)
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:173EA5,50:2450C5,100:2F46C7&section=header" width="92%" alt="" />
+</p>
+
 
 <h1>𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝘿 𝙋𝙍𝙊𝙅𝙀𝘾𝙏𝙎</h1>
 
