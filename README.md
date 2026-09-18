@@ -137,7 +137,13 @@ An interactive **school management website** designed to help students, staff, a
 </div>
 <h1>𝘼𝘾𝙃𝙄𝙀𝙑𝙀𝙈𝙀𝙉𝙏𝙎</h1>
 
-<p align="center"><a href="https://www.credly.com/badges/fa0a6146-9eab-4df6-a4b2-6c0f351566e0"><img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" alt="Credly - Introduction to Modern AI" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/c22dbe1e-0e4e-4beb-aff4-1f7f5882e02a"><img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Knowledge: Cloud Essentials" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://badges.parchment.com/public/assertions/jJd0AyMFRg60606ON0h9nw?identity__email=syedmohammadaquib12%40gmail.com"><img src="https://api.badgr.io/public/assertions/jJd0AyMFRg60606ON0h9nw/image" alt="Parchment - Verified Digital Credential" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://holopin.io/@syedmohammadaquib"><img src="https://holopin.me/syedmohammadaquib" alt="An image of @syedmohammadaquib's Holopin badges, which is a link to view their full Holopin profile" height="85" /></a></p>
+<p align="center">
+  <a href="https://www.credly.com/badges/fa0a6146-9eab-4df6-a4b2-6c0f351566e0"><img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" alt="Credly - Introduction to Modern AI" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/c22dbe1e-0e4e-4beb-aff4-1f7f5882e02a"><img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Knowledge: Cloud Essentials" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://badges.parchment.com/public/assertions/jJd0AyMFRg60606ON0h9nw?identity__email=syedmohammadaquib12%40gmail.com"><img src="https://api.badgr.io/public/assertions/jJd0AyMFRg60606ON0h9nw/image" alt="Parchment - Verified Digital Credential" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin - Early Bird Badge" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://assets.holopin.io/hf2025levels/lvl5-human.webp"><img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Holopin - Supercontributor Badge" width="100" /></a>
+</p>
 
 <h1>𝘾𝙊𝙉𝙉𝙀𝘾𝙏</h1>
 
